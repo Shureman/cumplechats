@@ -41,7 +41,7 @@ else:
 	for i in range (events):
 		names[i] = resp['items'][i]['summary']
 		try:
-			requests.post('https://api.telegram.org/bot'+TELEGRAM_TOKEN+'/sendMessage', data={'chat_id': TELEGRAM_CID , 'text': "Hoy es el cumpleaños de  "+names[i]+"."}) 
+			requests.post('https://api.telegram.org/bot'+TELEGRAM_TOKEN+'/sendMessage', data={'chat_id': TELEGRAM_CID , 'text': "Hoy es el cumpleaños de  "+names[i]+".\nEsperemos que pases un buen dia"}) 
 		except:
 			requests.post('https://api.telegram.org/bot'+TELEGRAM_TOKEN+'/sendMessage', data={'chat_id': TELEGRAM_CID , 'text': "Ha ocurrido un error"})  
 
