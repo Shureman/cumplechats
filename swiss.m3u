@@ -1,123 +1,351 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CH: 3+  HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/3_plus_ch.png" group-title="CH ✦ SWITZERLAND",CH: 3+  HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762605
-#EXTINF:-1 tvg-id="" tvg-name="CH: 4+  HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/4plus.png" group-title="CH ✦ SWITZERLAND",CH: 4+  HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762606
-#EXTINF:-1 tvg-id="" tvg-name="CH: 5+ HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/5plus.png" group-title="CH ✦ SWITZERLAND",CH: 5+ HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762607
-#EXTINF:-1 tvg-id="" tvg-name="CH: 6+ HD" tvg-logo="http://logo.cms-s.com/logo/L-sat05.01.21/Europe/Switzerland/6plus-ch.png" group-title="CH ✦ SWITZERLAND",CH: 6+ HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762608
-#EXTINF:-1 tvg-id="" tvg-name="CH: 6TER HD SUISSE" tvg-logo="http://logo.cms-s.com/logo/Switzerland/M6_6ter.png" group-title="CH ✦ SWITZERLAND",CH: 6TER HD SUISSE
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762609
-#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE ACTION FHD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/teleclub_action.png" group-title="CH ✦ SWITZERLAND",CH: BLUE ACTION FHD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762610
-#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE CARTOON NETWORK HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/cartoon_network.png" group-title="CH ✦ SWITZERLAND",CH: BLUE CARTOON NETWORK HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762611
-#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE DISCOVERY CHANNEL HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/discovery_channel.png" group-title="CH ✦ SWITZERLAND",CH: BLUE DISCOVERY CHANNEL HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762612
-#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE NAT GEO HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/national_geographic.png" group-title="CH ✦ SWITZERLAND",CH: BLUE NAT GEO HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762613
-#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE PRIME FHD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/teleclub_cinema.png" group-title="CH ✦ SWITZERLAND",CH: BLUE PRIME FHD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762614
-#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE PRIME HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/teleclub_cinema.png" group-title="CH ✦ SWITZERLAND",CH: BLUE PRIME HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762615
-#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE SYFY HD" tvg-logo="http://logo.cms-s.com/logo/logos_a-z/s/SYFY-HD.png" group-title="CH ✦ SWITZERLAND",CH: BLUE SYFY HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762616
-#EXTINF:-1 tvg-id="" tvg-name="CH: TELE BARN HD" tvg-logo="" group-title="CH ✦ SWITZERLAND",CH: TELE BARN HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762617
-#EXTINF:-1 tvg-id="" tvg-name="CH: COMEDY CENTRAL/VIVA HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/viva_comedy_central.png" group-title="CH ✦ SWITZERLAND",CH: COMEDY CENTRAL/VIVA HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762618
-#EXTINF:-1 tvg-id="" tvg-name="CH: LA TELE" tvg-logo="http://logo.cms-s.com/logo/SWITZERLAND/la_tele.png" group-title="CH ✦ SWITZERLAND",CH: LA TELE
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762619
-#EXTINF:-1 tvg-id="" tvg-name="CH: M6 HD SUISSE" tvg-logo="http://logo.cms-s.com/logo/Switzerland/m6_ch.png" group-title="CH ✦ SWITZERLAND",CH: M6 HD SUISSE
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762620
-#EXTINF:-1 tvg-id="" tvg-name="CH: PULS 8 HD" tvg-logo="http://logo.cms-s.com/logo/L-sat05.01.21/Europe/Switzerland/puls-acht-ch.png" group-title="CH ✦ SWITZERLAND",CH: PULS 8 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762621
-#EXTINF:-1 tvg-id="" tvg-name="CH: ROUGE TV FHD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/rouge_tv_ch.png" group-title="CH ✦ SWITZERLAND",CH: ROUGE TV FHD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762622
-#EXTINF:-1 tvg-id="" tvg-name="CH: RSI LA 1 HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/rsi_la1.png" group-title="CH ✦ SWITZERLAND",CH: RSI LA 1 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762623
-#EXTINF:-1 tvg-id="" tvg-name="CH: RSI LA 1 HEVC" tvg-logo="http://logo.cms-s.com/logo/Switzerland/rsi_la1.png" group-title="CH ✦ SWITZERLAND",CH: RSI LA 1 HEVC
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762624
-#EXTINF:-1 tvg-id="" tvg-name="CH: RSI LA 2 HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/rsi_la2.png" group-title="CH ✦ SWITZERLAND",CH: RSI LA 2 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762625
-#EXTINF:-1 tvg-id="" tvg-name="CH: RSI LA 2 HEVC" tvg-logo="http://logo.cms-s.com/logo/Switzerland/rsi_la2.png" group-title="CH ✦ SWITZERLAND",CH: RSI LA 2 HEVC
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762626
-#EXTINF:-1 tvg-id="" tvg-name="CH: RTS DEUX HD" tvg-logo="http://logo.cms-s.com/logo/SWITZERLAND/RTSDEUX.png" group-title="CH ✦ SWITZERLAND",CH: RTS DEUX HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762627
-#EXTINF:-1 tvg-id="" tvg-name="CH: RTS DEUX HEVC" tvg-logo="http://logo.cms-s.com/logo/SWITZERLAND/RTSDEUX.png" group-title="CH ✦ SWITZERLAND",CH: RTS DEUX HEVC
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762628
-#EXTINF:-1 tvg-id="" tvg-name="CH: RTS UN FHD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/rts_ch_un.png" group-title="CH ✦ SWITZERLAND",CH: RTS UN FHD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762629
-#EXTINF:-1 tvg-id="" tvg-name="CH: RTS UN HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/rts_ch_un.png" group-title="CH ✦ SWITZERLAND",CH: RTS UN HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762630
-#EXTINF:-1 tvg-id="" tvg-name="CH: RTS UN HEVC" tvg-logo="http://logo.cms-s.com/logo/Switzerland/rts_ch_un.png" group-title="CH ✦ SWITZERLAND",CH: RTS UN HEVC
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762631
-#EXTINF:-1 tvg-id="" tvg-name="CH: SRF 1 HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/srf_1_ch.png" group-title="CH ✦ SWITZERLAND",CH: SRF 1 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762632
-#EXTINF:-1 tvg-id="" tvg-name="CH: SRF 1 HEVC" tvg-logo="http://logo.cms-s.com/logo/Switzerland/srf_1_ch.png" group-title="CH ✦ SWITZERLAND",CH: SRF 1 HEVC
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762633
-#EXTINF:-1 tvg-id="" tvg-name="CH: SRF 2 HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/srf_2_ch_uhd.png" group-title="CH ✦ SWITZERLAND",CH: SRF 2 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762634
-#EXTINF:-1 tvg-id="" tvg-name="CH: SRF 2 HEVC" tvg-logo="http://logo.cms-s.com/logo/Switzerland/srf_2_ch_uhd.png" group-title="CH ✦ SWITZERLAND",CH: SRF 2 HEVC
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762635
-#EXTINF:-1 tvg-id="" tvg-name="CH: SRF INFO FHD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/srf_info_ch.png" group-title="CH ✦ SWITZERLAND",CH: SRF INFO FHD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762636
-#EXTINF:-1 tvg-id="" tvg-name="CH: SRF INFO HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/srf_info_ch.png" group-title="CH ✦ SWITZERLAND",CH: SRF INFO HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762637
-#EXTINF:-1 tvg-id="" tvg-name="CH: STAR TV HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/canal_alpha.png" group-title="CH ✦ SWITZERLAND",CH: STAR TV HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762638
-#EXTINF:-1 tvg-id="" tvg-name="CH: SWISS 1 HD" tvg-logo="http://logo.cms-s.com/logo/SWITZERLAND/swiss1.png" group-title="CH ✦ SWITZERLAND",CH: SWISS 1 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762639
-#EXTINF:-1 tvg-id="" tvg-name="CH: TELE 5" tvg-logo="http://logo.cms-s.com/logo/germanynew/tele_5.png" group-title="CH ✦ SWITZERLAND",CH: TELE 5
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762640
-#EXTINF:-1 tvg-id="" tvg-name="CH: TELE BASEL" tvg-logo="http://logo.cms-s.com/logo/Switzerland/tele_basel.png" group-title="CH ✦ SWITZERLAND",CH: TELE BASEL
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762641
-#EXTINF:-1 tvg-id="" tvg-name="CH: TELE M1 HD" tvg-logo="http://logo.cms-s.com/logo/SWITZERLAND/teleM1.png" group-title="CH ✦ SWITZERLAND",CH: TELE M1 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762642
-#EXTINF:-1 tvg-id="" tvg-name="CH: TELE TICINO HD" tvg-logo="http://logo.cms-s.com/logo/SWITZERLAND/tele_ticino.png" group-title="CH ✦ SWITZERLAND",CH: TELE TICINO HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762643
-#EXTINF:-1 tvg-id="" tvg-name="CH: TELE ZURI HD" tvg-logo="http://logo.cms-s.com/logo/L-sat05.01.21/Europe/Switzerland/telezuri-ch.png" group-title="CH ✦ SWITZERLAND",CH: TELE ZURI HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762644
-#EXTINF:-1 tvg-id="" tvg-name="CH: TV 24  HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/TV24.png" group-title="CH ✦ SWITZERLAND",CH: TV 24  HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762645
-#EXTINF:-1 tvg-id="" tvg-name="CH: TV 25 FHD" tvg-logo="http://logo.cms-s.com/logo/L-sat05.01.21/Europe/Switzerland/tv-25-ch.png" group-title="CH ✦ SWITZERLAND",CH: TV 25 FHD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762646
-#EXTINF:-1 tvg-id="" tvg-name="CH: TV SUEDOSTSCHWEIZ HD" tvg-logo="http://logo.cms-s.com/logo/logos_a-z/t/TV-SUEDOSTSCHWEIZ.jpeg" group-title="CH ✦ SWITZERLAND",CH: TV SUEDOSTSCHWEIZ HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762647
-#EXTINF:-1 tvg-id="" tvg-name="CH: TVO HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/tvo_ch.png" group-title="CH ✦ SWITZERLAND",CH: TVO HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762648
-#EXTINF:-1 tvg-id="" tvg-name="CH: W9 SUISSE HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/w9_suisse.png" group-title="CH ✦ SWITZERLAND",CH: W9 SUISSE HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762649
-#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE SPORT D 1 HD" tvg-logo="http://logo.cms-s.com/logo/SWITZERLAND/blue_sport1.png" group-title="CH ✦ SWITZERLAND",CH: BLUE SPORT D 1 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762650
-#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE SPORT D 1 FHD" tvg-logo="http://logo.cms-s.com/logo/SWITZERLAND/blue_sport1.png" group-title="CH ✦ SWITZERLAND",CH: BLUE SPORT D 1 FHD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762651
-#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE SPORT D 2 HD" tvg-logo="http://logo.cms-s.com/logo/SWITZERLAND/blue_sport2.png" group-title="CH ✦ SWITZERLAND",CH: BLUE SPORT D 2 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762652
-#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE SPORT D 2 FHD" tvg-logo="http://logo.cms-s.com/logo/SWITZERLAND/blue_sport2.png" group-title="CH ✦ SWITZERLAND",CH: BLUE SPORT D 2 FHD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762653
-#EXTINF:-1 tvg-id="" tvg-name="CH: VIP BLUE SPORT EVENT 5 FHD" tvg-logo="http://logo.cms-s.com/logo/SWITZERLAND/blue_sport1.png" group-title="CH ✦ SWITZERLAND",CH: VIP BLUE SPORT EVENT 5 FHD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762654
-#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE ZOOM FHD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/teleclub_zoom.png" group-title="CH ✦ SWITZERLAND",CH: BLUE ZOOM FHD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762655
-#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE ZOOM D HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/teleclub_zoom.png" group-title="CH ✦ SWITZERLAND",CH: BLUE ZOOM D HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762656
-#EXTINF:-1 tvg-id="" tvg-name="CH: MY SPORTS 1 HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/my_sports_1.png" group-title="CH ✦ SWITZERLAND",CH: MY SPORTS 1 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762657
-#EXTINF:-1 tvg-id="" tvg-name="CH: MY SPORTS 2 HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/my_sports_2.png" group-title="CH ✦ SWITZERLAND",CH: MY SPORTS 2 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762658
-#EXTINF:-1 tvg-id="" tvg-name="CH: MY SPORTS 3 HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/my_sports_3.png" group-title="CH ✦ SWITZERLAND",CH: MY SPORTS 3 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762659
-#EXTINF:-1 tvg-id="" tvg-name="CH: MY SPORTS 4 HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/my_sports_4.png" group-title="CH ✦ SWITZERLAND",CH: MY SPORTS 4 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762660
-#EXTINF:-1 tvg-id="" tvg-name="CH: MY SPORTS 5 HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/my_sports_5.png" group-title="CH ✦ SWITZERLAND",CH: MY SPORTS 5 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762661
-#EXTINF:-1 tvg-id="" tvg-name="CH: MY SPORTS 6 HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/my_sports_6.png" group-title="CH ✦ SWITZERLAND",CH: MY SPORTS 6 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762662
-#EXTINF:-1 tvg-id="" tvg-name="CH: MY SPORTS 7 HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/my_sports_7.png" group-title="CH ✦ SWITZERLAND",CH: MY SPORTS 7 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762663
-#EXTINF:-1 tvg-id="" tvg-name="CH: MY SPORTS 8 HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/my_sports_8.png" group-title="CH ✦ SWITZERLAND",CH: MY SPORTS 8 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762664
-#EXTINF:-1 tvg-id="" tvg-name="CH: MY SPORTS 9 HD" tvg-logo="http://logo.cms-s.com/logo/Switzerland/my_sports.png" group-title="CH ✦ SWITZERLAND",CH: MY SPORTS 9 HD
-http://en.oxoplus1.com:8080/zKhkx7F7/cje3y3x/11762665
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE ZOOM D FHD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKg2_YdpbKy3gDL5YWJ7Ywi5ENbBgKBIujDKVavYl8TeuvawzS9FajTxzT6Ms3FMFyAG2gJnF8sj5wmcmhqr98onJH0_VtqbbuxweuhqRVzoX95yQvufwNWpFTaUb1jI7ZJMtH1_FvPFgv_I04Tx3NCH2k1Lfyx7iduQP--I0cocMQ.png" group-title="Switzerland",CH: BLUE ZOOM D FHD
+http://801713313690261148.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/261148.ts
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI LA 2 HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP8aaCT7ae1q_tpgIUy2R_oT9c8bN0QFBMqBd2rrVRGsIQ.png" group-title="Switzerland",CH: RSI LA 2 HD
+http://801713313690261158.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/261158.ts
+#EXTINF:-1 tvg-id="srf1.ch" tvg-name="CH: SRF 1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP9u0ueozGEDIbRsScMw-k_N.png" group-title="Switzerland",CH: SRF 1 HD
+http://801713313690261165.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/261165.ts
+#EXTINF:-1 tvg-id="srfinfo.ch" tvg-name="CH: SRF INFO HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP8AFEFNJ5sQ_VDTRA4kz_6mLYtAhMX92SYKPbHKVmaaLw.png" group-title="Switzerland",CH: SRF INFO HD
+http://801713313690261166.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/261166.ts
+#EXTINF:-1 tvg-id="tvo.ch" tvg-name="CH: TVO HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP8stkTlD__JIqig2O61pSLK.png" group-title="Switzerland",CH: TVO HD
+http://801713313690261171.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/261171.ts
+#EXTINF:-1 tvg-id="bluesport2.ch" tvg-name="CH: BLUE SPORT 2 HD" tvg-logo="http://live.phenixiptv.com:8080/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qMUnxUg4nt10AF9bh2sKB6CEc562H73t6kBxifAMKBb13T3BLAKKmT-5XtIJQuwdQw.png" group-title="Switzerland",CH: BLUE SPORT 2 HD
+http://801713313690273140.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/273140.ts
+#EXTINF:-1 tvg-id="srf2.ch" tvg-name="CH: SRF ZWEI HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ebedeef3396154de7043a23cc8781851.svg" group-title="Switzerland",CH: SRF ZWEI HD
+http://801713313690278131.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/278131.ts
+#EXTINF:-1 tvg-id="mysports8.ch" tvg-name="CH: MYSPORTS 8 HD" tvg-logo="s:1:/images/e190f8c0a41cc6f0d06100d31b97f47f.png" group-title="Switzerland",CH: MYSPORTS 8 HD
+http://801713313690279220.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/279220.ts
+#EXTINF:-1 tvg-id="mysports2.ch" tvg-name="CH: MYSPORTS 2 HD" tvg-logo="s:1:/images/e190f8c0a41cc6f0d06100d31b97f47f.png" group-title="Switzerland",CH: MYSPORTS 2 HD
+http://801713313690279239.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/279239.ts
+#EXTINF:-1 tvg-id="mysports7.ch" tvg-name="CH: MYSPORTS 7 FHD" tvg-logo="s:1:/images/e190f8c0a41cc6f0d06100d31b97f47f.png" group-title="Switzerland",CH: MYSPORTS 7 FHD
+http://801713313690279244.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/279244.ts
+#EXTINF:-1 tvg-id="mysports9.ch" tvg-name="CH: MYSPORTS 9 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/57635904fa763c7237e69c8f8490e286.png" group-title="Switzerland",CH: MYSPORTS 9 HD
+http://801713313690279245.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/279245.ts
+#EXTINF:-1 tvg-id="3plus.ch" tvg-name="CH: 3+ SD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7XoLNRwN8zsRBIPGtQS8JOwg1yRXN0ovJmyYCV2dRnNQ2Wy_NtfE9W2GIcULCAv5ESg.png" group-title="Switzerland",CH: 3+ SD
+http://801713313690309630.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309630.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: 4 FHD" tvg-logo="" group-title="Switzerland",CH: 4 FHD
+http://801713313690309631.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309631.ts
+#EXTINF:-1 tvg-id="4plus.ch" tvg-name="CH: 4+ FHD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP_Sr24ZnxmLkzK1-K-n44E_.png" group-title="Switzerland",CH: 4+ FHD
+http://801713313690309632.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309632.ts
+#EXTINF:-1 tvg-id="5plus.ch" tvg-name="CH: 5+ FHD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP-FU7eDlhSLYZ06XB0afa3C.png" group-title="Switzerland",CH: 5+ FHD
+http://801713313690309633.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309633.ts
+#EXTINF:-1 tvg-id="bluesport1.ch" tvg-name="CH: BLUE SPORT 1 SD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTECzdGwv1MyBXdavRChf4l6-uE4HsDhVEDr07tkmjGp4NqKglgeTxl8p9Efh1x7q5p0iq5c1-hCPHgPFioNFQn9zaZeKgemeAMsXzZhpWjNug1JSDOISGjJ8HSWL-nt9ZoDbaljTYNpFxI4nCVIxD2Mc1HSULteyUmJO0RADDTA.png" group-title="Switzerland",CH: BLUE SPORT 1 SD
+http://801713313690309637.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309637.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE STARS HD" tvg-logo="http://live.phenixiptv.com:8080/images/uZAmxwZrvdCFYHCx9O6snCtF1-NfjJ7mvk4pHmPu1bBM4HXCe5FA-iX_dy3zmFY1_zFeXWeIt9fXA9yQwIejDQ.jpg" group-title="Switzerland",CH: BLUE STARS HD
+http://801713313690309638.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309638.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE ZOOM FULL FHD" tvg-logo="" group-title="Switzerland",CH: BLUE ZOOM FULL FHD
+http://801713313690309639.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309639.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: DIE NEUE ZEIT HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT3-3BvjTVgXHpP52GRakna5yB8OX5W8Z6j-yZFL7cllZFzEwpAADtxDq8XfT79v-VBOjyuzEJ-j0qqBnleYIGKb1879765F36BO13dJ4G3MFsy_YWDIDA3s_m-GA-ppsB.png" group-title="Switzerland",CH: DIE NEUE ZEIT HD
+http://801713313690309640.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309640.ts
+#EXTINF:-1 tvg-id="818" tvg-name="CH: DISNEY CHANNEL FHD" tvg-logo="" group-title="Switzerland",CH: DISNEY CHANNEL FHD
+http://801713313690309641.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309641.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MONT BLANC 8 HD" tvg-logo="" group-title="Switzerland",CH: MONT BLANC 8 HD
+http://801713313690309643.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309643.ts
+#EXTINF:-1 tvg-id="mysports1.ch" tvg-name="CH: MYSPORTS 1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP9jajIne_kSMKpdiId3xkOYHgsxWOmKERniTa8BesVvIg.png" group-title="Switzerland",CH: MYSPORTS 1 HD
+http://801713313690309644.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309644.ts
+#EXTINF:-1 tvg-id="mysports3.ch" tvg-name="CH: MYSPORTS 3 HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP_5kgKOJp6aT46GJn6SKltI_GnSICmKZh8gQX75f7dtqA.png" group-title="Switzerland",CH: MYSPORTS 3 HD
+http://801713313690309646.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309646.ts
+#EXTINF:-1 tvg-id="mysports4.ch" tvg-name="CH: MYSPORTS 4 HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP-NWVxtygggKNg6zzgSZCFXb46q5zJZ5yBHHDiBUv6M6Q.png" group-title="Switzerland",CH: MYSPORTS 4 HD
+http://801713313690309647.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309647.ts
+#EXTINF:-1 tvg-id="mysports5.ch" tvg-name="CH: MYSPORTS 5 HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP8fapcRKcfiNDvz3M6POzCn0DaOtNHrVLYY4a-DRZmf9w.png" group-title="Switzerland",CH: MYSPORTS 5 HD
+http://801713313690309648.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309648.ts
+#EXTINF:-1 tvg-id="mysports6.ch" tvg-name="CH: MYSPORTS 6 HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP9MDiawyZSGzW3Dj8R64wdXUlsYlfSgN1Z6K9SLjbr5Sg.png" group-title="Switzerland",CH: MYSPORTS 6 HD
+http://801713313690309649.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309649.ts
+#EXTINF:-1 tvg-id="rts2.ch" tvg-name="CH: SRF 2 HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT3-3BvjTVgXHpP52GRakna5yB8OX5W8Z6j-yZFL7cllb8mmP_5Mh_umo5PxjmbzFd-PKQu3L-5gN-kLYew6rnhHf_H-4QuKrNyAe7GSd5YhP1w-l2jqOdrha3vf5RnUYh.png" group-title="Switzerland",CH: SRF 2 HD
+http://801713313690309658.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309658.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: SWISS 1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP8Z-5UskRyuvE4QgIkOGLAe.png" group-title="Switzerland",CH: SWISS 1 HD
+http://801713313690309659.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309659.ts
+#EXTINF:-1 tvg-id="discoverychannel.ch" tvg-name="CH: TC DISCOVER CHANNEL HD" tvg-logo="" group-title="Switzerland",CH: TC DISCOVER CHANNEL HD
+http://801713313690309660.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309660.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE BIELINGUE HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT3-3BvjTVgXHpP52GRakna5yB8OX5W8Z6j-yZFL7cllasZht-ahVaqzsgewgUgMAzux6moiQPbC5uYBFlkPLKZi-MFsftx6Z4OMiT44F9MUO-6SZ9TouHBztrRGCkdGBt.png" group-title="Switzerland",CH: TELE BIELINGUE HD
+http://801713313690309661.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309661.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE CLUB PRIME HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgnrV2WkFxILJMwN817EuwjCBii7Bcp2kjZCEGMsd5naME54ppf2uuVOawDLdIQWpfSXKX0r_VVKeHvaSlbl1AmJSd_Gs-XvDZmpnRV1g15UeHpW7DjkPqKskdlSMRCO4JgxCEMzcLKrGLfDrUPl2xN.png" group-title="Switzerland",CH: TELE CLUB PRIME HD
+http://801713313690309662.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309662.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE CLUB SPORT 1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP_6hRqgLCFBXvWdX5CfbSPhPrqr1ABu7fGy2AueXtTGgg.png" group-title="Switzerland",CH: TELE CLUB SPORT 1 HD
+http://801713313690309663.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309663.ts
+#EXTINF:-1 tvg-id="bluesport2.ch" tvg-name="CH: TELE CLUB SPORT 2 FHD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKi2ALHO18MpBBXulLtluRZT3-3BvjTVgXHpP52GRakna5yB8OX5W8Z6j-yZFL7cllb8mVpFdfWc9dcPoddP8JXu3gGIdO2AP45WlSQXFadqg2kL3kmaVeb_D3TPLXg5OUEuAl3x5zYgaGcPhJb4xGNK.png" group-title="Switzerland",CH: TELE CLUB SPORT 2 FHD
+http://801713313690309664.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309664.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE MOVISTAR 1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP_tXNmyLh9bb-hxuIVPE5jQKUpRM3UhwuMJNdDvZHTeJg.png" group-title="Switzerland",CH: TELE MOVISTAR 1 HD
+http://801713313690309665.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309665.ts
+#EXTINF:-1 tvg-id="teleticino.ch" tvg-name="CH: TELE TICINO HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP99XSNy8zVqdXLRuznWInBf0GFv6aieGz0ndLyRDYPmuw.png" group-title="Switzerland",CH: TELE TICINO HD
+http://801713313690309666.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309666.ts
+#EXTINF:-1 tvg-id="cineplusemotion.ch" tvg-name="CH: TELECLUB EMOTION FHD" tvg-logo="" group-title="Switzerland",CH: TELECLUB EMOTION FHD
+http://801713313690309667.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309667.ts
+#EXTINF:-1 tvg-id="bluesport1.ch" tvg-name="CH: TELECLUB SPORT 1 FHD" tvg-logo="" group-title="Switzerland",CH: TELECLUB SPORT 1 FHD
+http://801713313690309668.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309668.ts
+#EXTINF:-1 tvg-id="bluesport2.ch" tvg-name="CH: TELECLUB SPORT 2 HD" tvg-logo="" group-title="Switzerland",CH: TELECLUB SPORT 2 HD
+http://801713313690309669.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309669.ts
+#EXTINF:-1 tvg-id="bluezoom.ch" tvg-name="CH: TELECLUB ZOOM FHD" tvg-logo="" group-title="Switzerland",CH: TELECLUB ZOOM FHD
+http://801713313690309671.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309671.ts
+#EXTINF:-1 tvg-id="telez.ch" tvg-name="CH: TELEZ FHD" tvg-logo="" group-title="Switzerland",CH: TELEZ FHD
+http://801713313690309672.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309672.ts
+#EXTINF:-1 tvg-id="tv24.ch" tvg-name="CH: TV 24 HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP9qBWpxHPMucCxrKQWLfyuH.png" group-title="Switzerland",CH: TV 24 HD
+http://801713313690309673.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/309673.ts
+#EXTINF:-1 tvg-id="135" tvg-name="CH: NICKELODEON CH HD" tvg-logo="" group-title="Switzerland",CH: NICKELODEON CH HD
+http://801713313690312408.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/312408.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE BASEL HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP_EKeyv1sBInnLe08y1OFk_JTgx76Q1hZWKa3tpm73B2A.png" group-title="Switzerland",CH: TELE BASEL HD
+http://801713313690312409.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/312409.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE ZURI HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP8Srcc2ny32Ae2oN4et97cFN85KdwdP85Z5tw6tSkb08A.png" group-title="Switzerland",CH: TELE ZURI HD
+http://801713313690312410.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/312410.ts
+#EXTINF:-1 tvg-id="tele1.ch" tvg-name="CH: TELECLUB PRIME HD" tvg-logo="" group-title="Switzerland",CH: TELECLUB PRIME HD
+http://801713313690312411.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/312411.ts
+#EXTINF:-1 tvg-id="mysports1.ch" tvg-name="CH: MYSPORTS HD" tvg-logo="" group-title="Switzerland",CH: MYSPORTS HD
+http://801713313690314892.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/314892.ts
+#EXTINF:-1 tvg-id="rts2.ch" tvg-name="CH: RTS DEUX HD" tvg-logo="" group-title="Switzerland",CH: RTS DEUX HD
+http://801713313690314893.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/314893.ts
+#EXTINF:-1 tvg-id="mysports1.ch" tvg-name="CH: RTS 1 HD" tvg-logo="" group-title="Switzerland",CH: RTS 1 HD
+http://801713313690314894.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/314894.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELECLUB CINEMA FHD" tvg-logo="" group-title="Switzerland",CH: TELECLUB CINEMA FHD
+http://801713313690314895.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/314895.ts
+#EXTINF:-1 tvg-id="bluestars.ch" tvg-name="CH: TELECLUB STAR HD" tvg-logo="" group-title="Switzerland",CH: TELECLUB STAR HD
+http://801713313690314896.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/314896.ts
+#EXTINF:-1 tvg-id="18022" tvg-name="CH: TLC FHD" tvg-logo="" group-title="Switzerland",CH: TLC FHD
+http://801713313690314897.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/314897.ts
+#EXTINF:-1 tvg-id="6plus.ch" tvg-name="CH: 6+ HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhGaEpyLJgGfwSmG83vMHfD8Cm1NHqRGIR3ZZ615UBYpX6LogkbiO_8kX-1qJ6OYLUidUlspDIkP99HB1uUeGVJuMqMPGY2GFZeagzC_uMl9N5wS6t_dbkTwDjbiyU6eprWrGBmIJtyszsHPuHhbSSP.png" group-title="Switzerland",CH: 6+ HD
+http://801713313690316589.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/316589.ts
+#EXTINF:-1 tvg-id="blueaction.ch" tvg-name="CH: BLUE ACTION FHD" tvg-logo="http://live.phenixiptv.com:8080/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEqk4nqPNv04JtKbtQYpQpiaCOoctrJvbEUn5lGDlgGuow.png" group-title="Switzerland",CH: BLUE ACTION FHD
+http://801713313690316590.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/316590.ts
+#EXTINF:-1 tvg-id="blueprime.ch" tvg-name="CH: BLUE PRIME HD" tvg-logo="http://live.phenixiptv.com:8080/images/Iu9ng6CEdSEEohU_Jmw7Euu419odsF3XtaZ47W0jMLKMbJfmyaL4ULZvIMuj7oRSROQ9BUPvbPXHGki6Y13HxQ.jpg" group-title="Switzerland",CH: BLUE PRIME HD
+http://801713313690316591.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/316591.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE SPORT EVENT 1 HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTECzdGwv1MyBXdavRChf4l6-uE4HsDhVEDr07tkmjGp4NqKglgeTxl8p9Efh1x7rWFALJBQr2HfZFY1Xff4BdMJMYtSX1mEdzwXGuI_UzBvVCFXK__ODgmPLW7tPzZupkPkRdsxtBf4-Mfj5636dGm0bt8bIp-mVH3JGW5fzmGw.png" group-title="Switzerland",CH: BLUE SPORT EVENT 1 HD
+http://801713313690316592.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/316592.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MEDIA SHOP HD" tvg-logo="" group-title="Switzerland",CH: MEDIA SHOP HD
+http://801713313690316593.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/316593.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: OCHT FHD" tvg-logo="" group-title="Switzerland",CH: OCHT FHD
+http://801713313690316597.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/316597.ts
+#EXTINF:-1 tvg-id="rougetv.ch" tvg-name="CH: ROUGE FHD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP8Z5EvMejm20NlSNVJyY4ny0IydvQlDh9MxyHFsQYWJpQ.png" group-title="Switzerland",CH: ROUGE FHD
+http://801713313690316598.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/316598.ts
+#EXTINF:-1 tvg-id="mysports2.ch" tvg-name="CH: RTS 2 HD" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKio3jxCKt0YuI-8-sZ9ke953Evq_pL8hlSFFboc__brU2Kg0aqyPOJLhpcPavFzNYhb6I6rtgpowF2P4_IbuxpbjJA5eQ8ojYvsAQMoXZBQWQCdjfqUsjimhIyOkxhb0KPB1PtviDnVK5Lbi9aXwhJ6.png" group-title="Switzerland",CH: RTS 2 HD
+http://801713313690316600.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/316600.ts
+#EXTINF:-1 tvg-id="tv25.ch" tvg-name="CH: TV 25 HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP-njXQHTlGwibUEdRl7JnWn.png" group-title="Switzerland",CH: TV 25 HD
+http://801713313690316601.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/316601.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TVM 3 HD" tvg-logo="http://live.phenixiptv.com:8080/images/ifO-cka2vBXaQ1P2JSR02U5_3nMOMW_jfEuCqwvh1kLxHmeLUC0wRI-YFVwT4PGj_ReoRQFyWsRqd7KjxRBnTujGicGM3qmkYtx9-PSwUZY.png" group-title="Switzerland",CH: TVM 3 HD
+http://801713313690316602.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/316602.ts
+#EXTINF:-1 tvg-id="28508" tvg-name="CH: COMEDY CENTRAL FHD" tvg-logo="http://live.phenixiptv.com:8080/images/zxJ59QOxwbTdmXziBT2b_3ScEWnA9oj1u1kR4VKL9zaEPhwW6N456d5dZOLg7aRae4PXlRHsL9zAzt7G3RbLTS09m0JLEI1R0n9437xsXcFLPRs6pu2Q16eff8utJslU.png" group-title="Switzerland",CH: COMEDY CENTRAL FHD
+http://801713313690317271.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/317271.ts
+#EXTINF:-1 tvg-id="rsila1.ch" tvg-name="CH: RSI 1 HD" tvg-logo="" group-title="Switzerland",CH: RSI 1 HD
+http://801713313690317273.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/317273.ts
+#EXTINF:-1 tvg-id="rougetv.ch" tvg-name="CH: ROUGE TV FHD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik_sc5iuIiI_sgg-nlVw5jP8Z5EvMejm20NlSNVJyY4ny0IydvQlDh9MxyHFsQYWJpQ.png" group-title="Switzerland",CH: ROUGE TV FHD
+http://801713313690318150.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/318150.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: ORF 1 HD" tvg-logo="" group-title="Switzerland",CH: ORF 1 HD
+http://801713313690319202.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/319202.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: ORF 2 HD" tvg-logo="" group-title="Switzerland",CH: ORF 2 HD
+http://801713313690319442.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/319442.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: ORF 3 HD" tvg-logo="" group-title="Switzerland",CH: ORF 3 HD
+http://801713313690321797.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/321797.ts
+#EXTINF:-1 tvg-id="805" tvg-name="CH: ORF SPORT PLUS HD" tvg-logo="" group-title="Switzerland",CH: ORF SPORT PLUS HD
+http://801713313690321798.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/321798.ts
+#EXTINF:-1 tvg-id="6" tvg-name="CH: 6+ FHD" tvg-logo="" group-title="Switzerland",CH: 6+ FHD
+http://801713313690338361.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/338361.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE STARS SD" tvg-logo="" group-title="Switzerland",CH: BLUE STARS SD
+http://801713313690338367.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/338367.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: DIE NEUE ZEIT SD" tvg-logo="" group-title="Switzerland",CH: DIE NEUE ZEIT SD
+http://801713313690338370.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/338370.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MEDIA SHOP FHD" tvg-logo="" group-title="Switzerland",CH: MEDIA SHOP FHD
+http://801713313690338371.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/338371.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: OCHT HEVC" tvg-logo="" group-title="Switzerland",CH: OCHT HEVC
+http://801713313690338372.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/338372.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: SWISS 1 FHD" tvg-logo="" group-title="Switzerland",CH: SWISS 1 FHD
+http://801713313690338373.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/338373.ts
+#EXTINF:-1 tvg-id="telebasel.ch" tvg-name="CH: TELE BASEL SD" tvg-logo="" group-title="Switzerland",CH: TELE BASEL SD
+http://801713313690338374.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/338374.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE CLUB SPORT 1 FHD" tvg-logo="" group-title="Switzerland",CH: TELE CLUB SPORT 1 FHD
+http://801713313690338375.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/338375.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE M+ 1 HD" tvg-logo="" group-title="Switzerland",CH: TELE M+ 1 HD
+http://801713313690338377.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/338377.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE TICINO SD" tvg-logo="" group-title="Switzerland",CH: TELE TICINO SD
+http://801713313690338378.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/338378.ts
+#EXTINF:-1 tvg-id="tvm3.ch" tvg-name="CH: TVM 3 FHD" tvg-logo="" group-title="Switzerland",CH: TVM 3 FHD
+http://801713313690338380.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/338380.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE ZOOM D SD" tvg-logo="" group-title="Switzerland",CH: BLUE ZOOM D SD
+http://801713313690339616.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/339616.ts
+#EXTINF:-1 tvg-id="mysports2.ch" tvg-name="CH: MYSPORTS 2 FHD" tvg-logo="" group-title="Switzerland",CH: MYSPORTS 2 FHD
+http://801713313690339619.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/339619.ts
+#EXTINF:-1 tvg-id="orf2.de" tvg-name="CH: ORF 2 FHD" tvg-logo="" group-title="Switzerland",CH: ORF 2 FHD
+http://801713313690339621.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/339621.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MYSPORTS 4 SD" tvg-logo="" group-title="Switzerland",CH: MYSPORTS 4 SD
+http://801713313690340973.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/340973.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: RTS 2 SD" tvg-logo="" group-title="Switzerland",CH: RTS 2 SD
+http://801713313690340974.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/340974.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE STARS FHD" tvg-logo="" group-title="Switzerland",CH: BLUE STARS FHD
+http://801713313690342247.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/342247.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TVM 3 SD" tvg-logo="" group-title="Switzerland",CH: TVM 3 SD
+http://801713313690342249.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/342249.ts
+#EXTINF:-1 tvg-id="orf1.de" tvg-name="CH: ORF 1 SD" tvg-logo="" group-title="Switzerland",CH: ORF 1 SD
+http://801713313690342320.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/342320.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TC DISCOVER CHANNEL HEVC" tvg-logo="" group-title="Switzerland",CH: TC DISCOVER CHANNEL HEVC
+http://801713313690342321.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/342321.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: OCHT SD" tvg-logo="" group-title="Switzerland",CH: OCHT SD
+http://801713313690343129.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/343129.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE BASEL FHD" tvg-logo="" group-title="Switzerland",CH: TELE BASEL FHD
+http://801713313690343130.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/343130.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELECLUB PRIME SD" tvg-logo="" group-title="Switzerland",CH: TELECLUB PRIME SD
+http://801713313690343969.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/343969.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MYSPORTS 3 HEVC" tvg-logo="" group-title="Switzerland",CH: MYSPORTS 3 HEVC
+http://801713313690345522.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/345522.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MYSPORTS 4 HEVC" tvg-logo="" group-title="Switzerland",CH: MYSPORTS 4 HEVC
+http://801713313690345523.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/345523.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE M+ 1 FHD" tvg-logo="" group-title="Switzerland",CH: TELE M+ 1 FHD
+http://801713313690346739.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/346739.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE ZURI FHD" tvg-logo="" group-title="Switzerland",CH: TELE ZURI FHD
+http://801713313690346740.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/346740.ts
+#EXTINF:-1 tvg-id="tvo.ch" tvg-name="CH: TVO FHD" tvg-logo="" group-title="Switzerland",CH: TVO FHD
+http://801713313690346741.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/346741.ts
+#EXTINF:-1 tvg-id="srf1.ch" tvg-name="CH: SRF 1 FHD" tvg-logo="" group-title="Switzerland",CH: SRF 1 FHD
+http://801713313690347952.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/347952.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MYSPORTS 1 HEVC" tvg-logo="" group-title="Switzerland",CH: MYSPORTS 1 HEVC
+http://801713313690348843.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/348843.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MYSPORTS HEVC" tvg-logo="" group-title="Switzerland",CH: MYSPORTS HEVC
+http://801713313690348844.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/348844.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: 4 HD" tvg-logo="" group-title="Switzerland",CH: 4 HD
+http://801713313690350269.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/350269.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE ZURI SD" tvg-logo="" group-title="Switzerland",CH: TELE ZURI SD
+http://801713313690350270.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/350270.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MYSPORTS 1 SD" tvg-logo="" group-title="Switzerland",CH: MYSPORTS 1 SD
+http://801713313690353371.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/353371.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MYSPORTS 2 HEVC" tvg-logo="" group-title="Switzerland",CH: MYSPORTS 2 HEVC
+http://801713313690353372.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/353372.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: SRF INFO SD" tvg-logo="" group-title="Switzerland",CH: SRF INFO SD
+http://801713313690361915.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/361915.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELECLUB STAR SD" tvg-logo="" group-title="Switzerland",CH: TELECLUB STAR SD
+http://801713313690361916.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/361916.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: ORF 3 SD" tvg-logo="" group-title="Switzerland",CH: ORF 3 SD
+http://801713313690376815.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/376815.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE ACTION SD" tvg-logo="" group-title="Switzerland",CH: BLUE ACTION SD
+http://801713313690377719.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/377719.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: RSI 1 FHD" tvg-logo="" group-title="Switzerland",CH: RSI 1 FHD
+http://801713313690379551.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/379551.ts
+#EXTINF:-1 tvg-id="blueprime.ch" tvg-name="CH: BLUE PRIME SD" tvg-logo="" group-title="Switzerland",CH: BLUE PRIME SD
+http://801713313690388556.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/388556.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELECLUB CINEMA SD" tvg-logo="" group-title="Switzerland",CH: TELECLUB CINEMA SD
+http://801713313690388557.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/388557.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELECLUB EMOTION SD" tvg-logo="" group-title="Switzerland",CH: TELECLUB EMOTION SD
+http://801713313690388558.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/388558.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MONT BLANC 8 SD" tvg-logo="" group-title="Switzerland",CH: MONT BLANC 8 SD
+http://801713313690393819.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/393819.ts
+#EXTINF:-1 tvg-id="orf1.de" tvg-name="CH: ORF 1 FHD" tvg-logo="" group-title="Switzerland",CH: ORF 1 FHD
+http://801713313690393820.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/393820.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MONT BLANC 8 FHD" tvg-logo="" group-title="Switzerland",CH: MONT BLANC 8 FHD
+http://801713313690395935.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/395935.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: SRF 1 SD" tvg-logo="" group-title="Switzerland",CH: SRF 1 SD
+http://801713313690396091.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/396091.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE CINEMA HD" tvg-logo="" group-title="Switzerland",CH: BLUE CINEMA HD
+http://801713313690398880.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/398880.ts
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI 2 HD" tvg-logo="" group-title="Switzerland",CH: RSI 2 HD
+http://801713313690398881.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/398881.ts
+#EXTINF:-1 tvg-id="tv24.ch" tvg-name="CH: TV24 HD" tvg-logo="" group-title="Switzerland",CH: TV24 HD
+http://801713313690398882.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/398882.ts
+#EXTINF:-1 tvg-id="tv25.ch" tvg-name="CH: TV25 HD" tvg-logo="" group-title="Switzerland",CH: TV25 HD
+http://801713313690398883.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/398883.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: KANAL9 FHD" tvg-logo="" group-title="Switzerland",CH: KANAL9 FHD
+http://801713313690400364.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/400364.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE SPORT EVENT 1 SD" tvg-logo="" group-title="Switzerland",CH: BLUE SPORT EVENT 1 SD
+http://801713313690407697.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/407697.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE CLUB SPORT 1 SD" tvg-logo="" group-title="Switzerland",CH: TELE CLUB SPORT 1 SD
+http://801713313690407698.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/407698.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE CLUB PRIME SD" tvg-logo="" group-title="Switzerland",CH: TELE CLUB PRIME SD
+http://801713313690441184.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/441184.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELEZ SD" tvg-logo="" group-title="Switzerland",CH: TELEZ SD
+http://801713313690441506.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/441506.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MEDIA SHOP SD" tvg-logo="" group-title="Switzerland",CH: MEDIA SHOP SD
+http://801713313690442477.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/442477.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: RSI 2 SD" tvg-logo="" group-title="Switzerland",CH: RSI 2 SD
+http://801713313690456615.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/456615.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: ROUGE TV SD" tvg-logo="" group-title="Switzerland",CH: ROUGE TV SD
+http://801713313690464205.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/464205.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: ROUGE SD" tvg-logo="" group-title="Switzerland",CH: ROUGE SD
+http://801713313690464206.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/464206.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE TICINO FHD" tvg-logo="" group-title="Switzerland",CH: TELE TICINO FHD
+http://801713313690473760.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/473760.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELECLUB SPORT 2 SD" tvg-logo="" group-title="Switzerland",CH: TELECLUB SPORT 2 SD
+http://801713313690475852.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/475852.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: RTS UN SD" tvg-logo="" group-title="Switzerland",CH: RTS UN SD
+http://801713313690480625.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/480625.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TV 24 SD" tvg-logo="" group-title="Switzerland",CH: TV 24 SD
+http://801713313690490414.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/490414.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TV24 SD" tvg-logo="" group-title="Switzerland",CH: TV24 SD
+http://801713313690490415.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/490415.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: ORF SPORT PLUS FHD" tvg-logo="" group-title="Switzerland",CH: ORF SPORT PLUS FHD
+http://801713313690502211.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/502211.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE ZOOM FULL HEVC" tvg-logo="" group-title="Switzerland",CH: BLUE ZOOM FULL HEVC
+http://801713313690512777.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/512777.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELECLUB ZOOM HEVC" tvg-logo="" group-title="Switzerland",CH: TELECLUB ZOOM HEVC
+http://801713313690512778.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/512778.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE CLUB PRIME FHD" tvg-logo="" group-title="Switzerland",CH: TELE CLUB PRIME FHD
+http://801713313690604290.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/604290.ts
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI 2 FHD" tvg-logo="" group-title="Switzerland",CH: RSI 2 FHD
+http://801713313690619440.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/619440.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: RSI LA 2 SD" tvg-logo="" group-title="Switzerland",CH: RSI LA 2 SD
+http://801713313690634340.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/634340.ts
+#EXTINF:-1 tvg-id="rts2.ch" tvg-name="CH: RTS DEUX SD" tvg-logo="" group-title="Switzerland",CH: RTS DEUX SD
+http://801713313690703526.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/703526.ts
+#EXTINF:-1 tvg-id="3plus.ch" tvg-name="CH: 3+" tvg-logo="" group-title="Switzerland",CH: 3+
+http://801713313690752952.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752952.ts
+#EXTINF:-1 tvg-id="4plus.ch" tvg-name="CH: 4+" tvg-logo="" group-title="Switzerland",CH: 4+
+http://801713313690752953.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752953.ts
+#EXTINF:-1 tvg-id="6plus.ch" tvg-name="CH: 6+" tvg-logo="" group-title="Switzerland",CH: 6+
+http://801713313690752955.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752955.ts
+#EXTINF:-1 tvg-id="blueaction.ch" tvg-name="CH: BLUE ACTION" tvg-logo="" group-title="Switzerland",CH: BLUE ACTION
+http://801713313690752956.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752956.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE CINEMA" tvg-logo="" group-title="Switzerland",CH: BLUE CINEMA
+http://801713313690752957.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752957.ts
+#EXTINF:-1 tvg-id="blueprime.ch" tvg-name="CH: BLUE PRIME" tvg-logo="" group-title="Switzerland",CH: BLUE PRIME
+http://801713313690752958.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752958.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE SPORT EVENT 1" tvg-logo="" group-title="Switzerland",CH: BLUE SPORT EVENT 1
+http://801713313690752961.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752961.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE ZOOM D" tvg-logo="" group-title="Switzerland",CH: BLUE ZOOM D
+http://801713313690752962.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752962.ts
+#EXTINF:-1 tvg-id="mysports2.ch" tvg-name="CH: MYSPORTS 2" tvg-logo="" group-title="Switzerland",CH: MYSPORTS 2
+http://801713313690752964.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752964.ts
+#EXTINF:-1 tvg-id="mysports3.ch" tvg-name="CH: MYSPORTS 3" tvg-logo="" group-title="Switzerland",CH: MYSPORTS 3
+http://801713313690752965.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752965.ts
+#EXTINF:-1 tvg-id="mysports4.ch" tvg-name="CH: MYSPORTS 4" tvg-logo="" group-title="Switzerland",CH: MYSPORTS 4
+http://801713313690752966.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752966.ts
+#EXTINF:-1 tvg-id="mysports8.ch" tvg-name="CH: MYSPORTS 8" tvg-logo="" group-title="Switzerland",CH: MYSPORTS 8
+http://801713313690752968.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752968.ts
+#EXTINF:-1 tvg-id="135" tvg-name="CH: NICKELODEON CH" tvg-logo="" group-title="Switzerland",CH: NICKELODEON CH
+http://801713313690752969.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752969.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: OCHT" tvg-logo="" group-title="Switzerland",CH: OCHT
+http://801713313690752970.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752970.ts
+#EXTINF:-1 tvg-id="805" tvg-name="CH: ORF SPORT PLUS" tvg-logo="" group-title="Switzerland",CH: ORF SPORT PLUS
+http://801713313690752971.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752971.ts
+#EXTINF:-1 tvg-id="rougetv.ch" tvg-name="CH: ROUGE" tvg-logo="" group-title="Switzerland",CH: ROUGE
+http://801713313690752972.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752972.ts
+#EXTINF:-1 tvg-id="rougetv.ch" tvg-name="CH: ROUGE TV" tvg-logo="" group-title="Switzerland",CH: ROUGE TV
+http://801713313690752973.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752973.ts
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI LA 2" tvg-logo="" group-title="Switzerland",CH: RSI LA 2
+http://801713313690752974.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752974.ts
+#EXTINF:-1 tvg-id="mysports1.ch" tvg-name="CH: RTS 1" tvg-logo="" group-title="Switzerland",CH: RTS 1
+http://801713313690752975.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752975.ts
+#EXTINF:-1 tvg-id="mysports2.ch" tvg-name="CH: RTS 2" tvg-logo="" group-title="Switzerland",CH: RTS 2
+http://801713313690752976.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752976.ts
+#EXTINF:-1 tvg-id="srf1.ch" tvg-name="CH: SRF 1" tvg-logo="" group-title="Switzerland",CH: SRF 1
+http://801713313690752977.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752977.ts
+#EXTINF:-1 tvg-id="srfinfo.ch" tvg-name="CH: SRF INFO" tvg-logo="" group-title="Switzerland",CH: SRF INFO
+http://801713313690752979.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752979.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: SWISS 1" tvg-logo="" group-title="Switzerland",CH: SWISS 1
+http://801713313690752980.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752980.ts
+#EXTINF:-1 tvg-id="telebasel.ch" tvg-name="CH: TELE BASEL" tvg-logo="" group-title="Switzerland",CH: TELE BASEL
+http://801713313690752981.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752981.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE BIELINGUE" tvg-logo="" group-title="Switzerland",CH: TELE BIELINGUE
+http://801713313690752982.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752982.ts
+#EXTINF:-1 tvg-id="bluesport2.ch" tvg-name="CH: TELE CLUB SPORT 2" tvg-logo="" group-title="Switzerland",CH: TELE CLUB SPORT 2
+http://801713313690752983.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752983.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE M+ 1" tvg-logo="" group-title="Switzerland",CH: TELE M+ 1
+http://801713313690752984.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752984.ts
+#EXTINF:-1 tvg-id="teleticino.ch" tvg-name="CH: TELE TICINO" tvg-logo="" group-title="Switzerland",CH: TELE TICINO
+http://801713313690752985.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752985.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELE ZURI" tvg-logo="" group-title="Switzerland",CH: TELE ZURI
+http://801713313690752986.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752986.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELECLUB CINEMA" tvg-logo="" group-title="Switzerland",CH: TELECLUB CINEMA
+http://801713313690752987.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752987.ts
+#EXTINF:-1 tvg-id="cineplusemotion.ch" tvg-name="CH: TELECLUB EMOTION" tvg-logo="" group-title="Switzerland",CH: TELECLUB EMOTION
+http://801713313690752988.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752988.ts
+#EXTINF:-1 tvg-id="bluesport1.ch" tvg-name="CH: TELECLUB SPORT 1" tvg-logo="" group-title="Switzerland",CH: TELECLUB SPORT 1
+http://801713313690752989.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752989.ts
+#EXTINF:-1 tvg-id="bluesport2.ch" tvg-name="CH: TELECLUB SPORT 2" tvg-logo="" group-title="Switzerland",CH: TELECLUB SPORT 2
+http://801713313690752990.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752990.ts
+#EXTINF:-1 tvg-id="bluestars.ch" tvg-name="CH: TELECLUB STAR" tvg-logo="" group-title="Switzerland",CH: TELECLUB STAR
+http://801713313690752991.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752991.ts
+#EXTINF:-1 tvg-id="bluezoom.ch" tvg-name="CH: TELECLUB ZOOM" tvg-logo="" group-title="Switzerland",CH: TELECLUB ZOOM
+http://801713313690752992.ofds0328.xyz:80/play/fe91193/QwMx9Wvb8B/752992.ts
